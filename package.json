@@ -1,6 +1,6 @@
 {
   "name": "@alex-playground/containers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Containers",
   "main": "src/index.js",
   "scripts": {
@@ -13,6 +13,7 @@
   "author": "alubchuk",
   "license": "ISC",
   "dependencies": {
+    "@alex-playground/api": "^1.0.0",
     "@alex-playground/components": "^1.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
